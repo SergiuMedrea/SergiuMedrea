@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiumedrea&label=Profile%20views&color=0e75b6&style=flat" alt="sergiumedrea" /> </p>
 
-- 🌱 I’m currently learning **Java, C# and Databases**
+- 🌱 I’m currently learning **Java, React and Databases**
 
 - 👯 I’m looking to collaborate on **any internship Offer**
 
